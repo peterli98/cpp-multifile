@@ -1,6 +1,5 @@
 #include <iostream>
-
-int multiply(int x, int y);
+#include "multiply.h"
 
 int main()
 {
